@@ -1,6 +1,10 @@
 [![MasterHead](https://www.riakademi.com.tr/images/net-core.webp)
 <h1 align="center">Hi 👋, I'm Furkan Boyun</h1>
-<h3 align="center">👋 Merhaba, ben Furkan Boyun! Bilgisayar Mühendisliği mezunuyum. Yazılım geliştirme süreçlerine duyduğum büyük ilgiyle, ölçeklenebilir, performanslı ve temiz kod (Clean Code) prensiplerine uygun çözümler üretmeye odaklanıyorum. 🚀 Neler Yapıyorum? Backend & API: Başta .NET teknolojileri (.NET Core, ASP.NET MVC, Web API) ve katmanlı mimariler olmak üzere, kurumsal ve optimize edilmiş arka plan servisleri geliştiriyorum. Mobil Geliştirme: Cross-platform dünyasında kullanıcı dostu deneyimler sunmak için React-Native ve Flutter ekosistemlerini aktif olarak kullanıyorum. Veritabanı Yönetimi: Veri modelleme ve sorgu optimizasyonlarında SQL ve MySQL teknolojileriyle çalışıyorum</h3>
+<h3 align="center">👋 Merhaba, ben Furkan Boyun! Bilgisayar Mühendisliği mezunuyum. Yazılım geliştirme süreçlerine duyduğum büyük ilgiyle, ölçeklenebilir, performanslı ve temiz kod (Clean Code) prensiplerine uygun çözümler üretmeye odaklanıyorum.
+🚀 Neler Yapıyorum? 
+ Backend & API: Başta .NET teknolojileri (.NET Core, ASP.NET MVC, Web API) ve katmanlı mimariler olmak üzere, kurumsal ve optimize edilmiş arka plan servisleri geliştiriyorum.  
+ Mobil Geliştirme: Cross-platform dünyasında kullanıcı dostu deneyimler sunmak için React-Native ve Flutter ekosistemlerini aktif olarak kullanıyorum. Veritabanı Yönetimi: 
+ Veri modelleme ve sorgu optimizasyonlarında SQL ve MySQL teknolojileriyle çalışıyorum</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fboyun&label=Profile%20views&color=0e75b6&style=flat" alt="fboyun" /> </p>
 
